@@ -1,0 +1,2 @@
+En esta carpeta se alojan los datos correspondientes a los dígitos 1, 2 3 y 4 con los que se ha entrenado
+la red neuronal y también contiene una copia de esta.

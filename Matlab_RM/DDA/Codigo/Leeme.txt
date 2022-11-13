@@ -1,0 +1,5 @@
+Se incluye también el programa de RedNeuronal12.m que es una versión más sencilla y previa a
+la de 4 dígitos, asimismo también se incluye la red neuronal entrenada  con este programa en la 
+carpeta RedEntrenada. Este programa no es el objetivo real del trabajo, si bien se han conservado 
+por curiosidad. El tester tiene al final una sección (comentada) en caso de que se quiera probar 
+esta red más sencilla, que sólo diferencia entre 1 y 2.
